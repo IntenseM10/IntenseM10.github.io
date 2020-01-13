@@ -1296,7 +1296,7 @@ section.lazy-placeholder:after {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #000000;
+  background-color: #FFFFFF;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
