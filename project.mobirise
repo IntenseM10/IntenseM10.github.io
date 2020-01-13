@@ -44,7 +44,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 218,
+    "uniqCompNum": 232,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -3108,7 +3108,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <select title=\"Kaarten\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                     <p>Jonas Van Put studeerde in 2013 af in de richting interieurarchitectuur aan de Universiteit Antwerpen. Na zijn succesvolle studie richtte hij samen met Jaap Bontekoe het atelier Bonte Koe Van Put op waar ze meubels en installaties ontwerpen. Op zijn site stelt hij dit voor als een Antwerp Based Design Practice. In al zijn ontwerpen vind je zijn all round thema \"sociale interactie\" terug.\n</p><p><br></p>\n                </div>\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                     <p><b>Ontwerpatelier\n</b></p><p>Al werkend tot ideeën komen, zo luidt de filosofie van Jonas van Put. Zijn ontwerpbureau straalt dit ook uit. Een vaste werkplek heeft hij niet. Door in te spelen op leegstandsbeheer, experimenteert hij in verschillende ateliers. Het uitzendtermijn is vaak zeer kort. Dit maakt dat ze op een goedkope manier een tijdelijke werkruimte kunnen huren. Momenteel zijn ze gevestigd in een site in Antwerpen waar meerdere ateliers van verschillende disciplines zijn gevestigd. Het voordeel van dit collectief werken is dat ze snel beroep kunnen doen op de kennis en vaardigheden van hun geburen. \n</p><p>\n</p><p><b>Inspiratie\n</b></p><p>Bij elk verwezenlijkt project werden er interessante beelden getoond die Jonas inspireerden tijdens het vooronderzoek. Deze beelden waren vaak terug te koppelen naar andere disciplines. Uit het interieurontwerp kon hij ook inspiratie halen maar deze bleven oppervlakkig. De filmwereld, voorwerpen uit het dagelijkse leven maar ook materialen op zich bleken een inspiratiebron voor hem. Door voorwerpen of materialen te bekijken op een grotere of kleinere schaal, krijgt het een andere betekenis en kan het op een andere manier geïnterpreteerd worden. \n</p><p><b>Werk\n</b></p><p>Enkele begrippen zijn een houvast voor Jonas tijdens het ontwerpproces. Aan de hand van deze begrippen kondigde hij enkele van zijn verwezenlijkte projecten aan tijdens de lezing. \n</p><p>Het eerste voorgestelde project was een ontwerp welke een beleving moest zijn tijdens een festival. De vraag kwam van de organisatoren van het belgische festival We Can Dance. De film A space Odyssey was een aanzet tot het eerste idee welke een monolitisch volume zou zijn. Een rechthoekig volume zou op het strand worden geplaatst. De tijd en beleving hier rond zou veranderlijk zijn maar het volume zelf bleef statig en onveranderlijk. Bij een tweede brainstorm en communicatie naar de klant toe, bleek dat dit idee te filosofisch was voor een festival. Ze besloten het over een andere boeg te gooien en wilden een interactieve beleving creëren waar de bezoekers een time out konden nemen tussen de concerten door. Hier kwam het begrip schaal naar voren. Inflatable werd een ontwerp afgeleid uit het idee van een fitnessbal. Door een groot aantal uitvergrote ballen op te vullen met lucht, ontstond er een sculptuur waarin de bezoekers intimiteit kon creëren in een groter geheel.\n</p><p>Het tweede begrip was interactie, welke samen hing met zijn tegenstelling isolement. Er werd een focus gelegd op het sociale aspect hiervan. De stoel Observer is een hoog zitelement waarmee één persoon dubbel zo ver kan zien als gewoonlijk. Op deze manier ontstond er een isolement van het individu.\n</p><p>Hier tegenover stond interactie. De natuur werd een inspiratie door de lagen van organismen in een woud en hoe deze zich verhouden ten opzichte van elkaar. Dit toegepast op de mens, vereiste een structuur van zitelementen waarin mensen zich konden plaatsen en wringen naar gewenst. Het idee werd uitgebreid en uitgewerkt. Uiteindelijk ontstond een installatie welke gebruikt en toegepast kon worden bij een informele vergadering.\n</p><p>Intuïtie was een belangrijk begrip waarbij een ontwerpproces begon door het doen en niet door het denken. Zonder concept experimenteren en zich laten leiden door ingevingen kan onverwachte resultaten teweegbrengen. Om dit aan te tonen werden er verschillende beelden getoond van proefmodellen van verschillende projecten in het atelier. Een mooi voorbeeld was een maquette van een sofa, uitgewerkt in blauwe veters welke heel simplistisch werden samengehouden door een metalen. Pas na het realiseren van het proefmaquette ontstond er een volwaardig ontwerp voor uitwerking. Door samenwerking met disciplines als houtbewerking, stoffering en schrijnwerkerij, ontstond een groot zitelement.\n</p><p>Bij het zoekend ontwerpproces is experimenteren een belangrijke term. De gevolgen die je niet kan voorspellen of bekomen via een schetsend onderzoek kunnen zeer interessant zijn. Papieren maquettes hebben dezelfde eigenschappen als sheet metal in het groot. Dit principe werd toegepast bij het ontwerpen voor de flagship store van Lies Mertens. De vraag was een low budget installatie te ontwerpen waarop de handtassencollectie van de belgische ontwerpster uitgestald kon worden. In het atelier werden verschillende schaalmodellen gemaakt en samengevoegd. Het metaal werd afgewerkt in sobere kleuren zodat deze op de achtergrond bleven.\n</p><p><b>Wat heeft jullie het meest getriggerd en waarom?\n</b></p><p>Zeer interessant vonden we het zien van het ontwerpproces. Tijdens de lezing werd een project niet louter als eindproduct voorgesteld, maar bekeken we het hele proces. Hoe een idee kan groeien tot een volwaardig project is zeer interessant om te volgen, zeker bij een ontwerper als Jonas die een eigenwijze methode gebruikt. Jonas benadrukte hier ook dat het belangrijk is om fouten durven te maken en om hieruit te leren.\n</p><p>Door te experimenteren kan je je juist meer inleven in het proces. Maquettes maken en experimenteren zonder te weten waar je zult eindigen, zou beschouwd moeten worden als een fundamentele ontwerpmethode. Een tegenvaller tijdens het experimenteren kan soms  juist onverwachte inspiratie brengen waardoor men terug op het goede spoor komt. Door te blijven experimenteren bekijk je het steeds van een ander perspectief en kan je afstand nemen van je eigen project. Hierdoor geef je het mogelijks een derde of grotere dimensie.\n</p><p>\n</p><p><b>Wat vonden jullie moeilijk om te interpreteren en waarom?\n</b></p><p>Jonas vertelde dat je soms geen concept nodig hebt, maar kan vertrekken vanuit je intuïtie. Hier kon ik hem deels in volgen, toch zeker na het zien van zijn voorbeeld van het Daybed. Maar anderzijds staat het concept centraal in onze opleiding. Via een concept kan je kapstokjes vormen en zo van een uitgebreide brainstorm stelselmatig naar een eindproduct werken. Wat Jonas liet zien is dat dit proces soms geen concept nodig heeft. Een proces is natuurlijk belangrijk om diepte te brengen in je verhaal en om het over te brengen naar de klant, maar in zijn proces wordt meer vanuit buikgevoel gewerkt tegenover wat wij aangeleerd krijgen. Durven het concept loslaten sluit ook perfect aan bij zijn filosofie. Het is juist door zichzelf los te koppelen van het concept en te experimenteren dat je gemakkelijker intuïtief kan werken.\n</p><p><br></p>\n                </div>\n                <div class=\"col-12 col-md-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-if=\"cardsAmount > 2\">\n                     <p>Maak met een paar muisklikken uw eigen website! Mobirise helpt u de ontwikkeltijd te verkorten door u een veelzijdige website-editor te bieden met een drag-en-drop interface. Mobirise Website Builder maakt met een paar muisklikken leuke, retina- en mobielvriendelijke websites. Mobirise is een van de gemakkelijkst apps beschikbaar voor het ontwikkelen van websites. Het laat je ook toe zoveel websites te ontwerpen als u wilt gezien het een desktop-app is.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <select title=\"Kaarten\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                     <p>Jonas Van Put studeerde in 2013 af in de richting interieurarchitectuur aan de Universiteit Antwerpen. Na zijn succesvolle studie richtte hij samen met Jaap Bontekoe het atelier Bonte Koe Van Put op waar ze meubels en installaties ontwerpen. Op zijn site stelt hij dit voor als een Antwerp Based Design Practice. In al zijn ontwerpen vind je zijn all round thema \"sociale interactie\" terug.\n</p><p><br></p>\n                </div>\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                     <p><b>Ontwerpatelier\n</b></p><p>Al werkend tot ideeën komen, zo luidt de filosofie van Jonas van Put. Zijn ontwerpbureau straalt dit ook uit. Een vaste werkplek heeft hij niet. Door in te spelen op leegstandsbeheer, experimenteert hij in verschillende ateliers. Het uitzendtermijn is vaak zeer kort. Dit maakt dat ze op een goedkope manier een tijdelijke werkruimte kunnen huren. Momenteel zijn ze gevestigd in een site in Antwerpen waar meerdere ateliers van verschillende disciplines zijn gevestigd. Het voordeel van dit collectief werken is dat ze snel beroep kunnen doen op de kennis en vaardigheden van hun geburen. \n</p><p>\n</p><p><b>Inspiratie\n</b></p><p>Bij elk verwezenlijkt project werden er interessante beelden getoond die Jonas inspireerden tijdens het vooronderzoek. Deze beelden waren vaak terug te koppelen naar andere disciplines. Uit het interieurontwerp kon hij ook inspiratie halen maar deze bleven oppervlakkig. De filmwereld, voorwerpen uit het dagelijkse leven maar ook materialen op zich bleken een inspiratiebron voor hem. Door voorwerpen of materialen te bekijken op een grotere of kleinere schaal, krijgt het een andere betekenis en kan het op een andere manier geïnterpreteerd worden. \n</p><p><b>Werk\n</b></p><p>Enkele begrippen zijn een houvast voor Jonas tijdens het ontwerpproces. Aan de hand van deze begrippen kondigde hij enkele van zijn verwezenlijkte projecten aan tijdens de lezing. \n</p><p>Het eerste voorgestelde project was een ontwerp welke een beleving moest zijn tijdens een festival. De vraag kwam van de organisatoren van het belgische festival We Can Dance. De film A space Odyssey was een aanzet tot het eerste idee welke een monolitisch volume zou zijn. Een rechthoekig volume zou op het strand worden geplaatst. De tijd en beleving hier rond zou veranderlijk zijn maar het volume zelf bleef statig en onveranderlijk. Bij een tweede brainstorm en communicatie naar de klant toe, bleek dat dit idee te filosofisch was voor een festival. Ze besloten het over een andere boeg te gooien en wilden een interactieve beleving creëren waar de bezoekers een time out konden nemen tussen de concerten door. Hier kwam het begrip schaal naar voren. Inflatable werd een ontwerp afgeleid uit het idee van een fitnessbal. Door een groot aantal uitvergrote ballen op te vullen met lucht, ontstond er een sculptuur waarin de bezoekers intimiteit kon creëren in een groter geheel.\n</p><p>Het tweede begrip was interactie, welke samen hing met zijn tegenstelling isolement. Er werd een focus gelegd op het sociale aspect hiervan. De stoel Observer is een hoog zitelement waarmee één persoon dubbel zo ver kan zien als gewoonlijk. Op deze manier ontstond er een isolement van het individu.\n</p><p>Hier tegenover stond interactie. De natuur werd een inspiratie door de lagen van organismen in een woud en hoe deze zich verhouden ten opzichte van elkaar. Dit toegepast op de mens, vereiste een structuur van zitelementen waarin mensen zich konden plaatsen en wringen naar gewenst. Het idee werd uitgebreid en uitgewerkt. Uiteindelijk ontstond een installatie welke gebruikt en toegepast kon worden bij een informele vergadering.\n</p><p>Intuïtie was een belangrijk begrip waarbij een ontwerpproces begon door het doen en niet door het denken. Zonder concept experimenteren en zich laten leiden door ingevingen kan onverwachte resultaten teweegbrengen. Om dit aan te tonen werden er verschillende beelden getoond van proefmodellen van verschillende projecten in het atelier. Een mooi voorbeeld was een maquette van een sofa, uitgewerkt in blauwe veters welke heel simplistisch werden samengehouden door een metalen. Pas na het realiseren van het proefmaquette ontstond er een volwaardig ontwerp voor uitwerking. Door samenwerking met disciplines als houtbewerking, stoffering en schrijnwerkerij, ontstond een groot zitelement.\n</p><p>Bij het zoekend ontwerpproces is experimenteren een belangrijke term. De gevolgen die je niet kan voorspellen of bekomen via een schetsend onderzoek kunnen zeer interessant zijn. Papieren maquettes hebben dezelfde eigenschappen als sheet metal in het groot. Dit principe werd toegepast bij het ontwerpen voor de flagship store van Lies Mertens. De vraag was een low budget installatie te ontwerpen waarop de handtassencollectie van de belgische ontwerpster uitgestald kon worden. In het atelier werden verschillende schaalmodellen gemaakt en samengevoegd. Het metaal werd afgewerkt in sobere kleuren zodat deze op de achtergrond bleven.\n</p><p><b>Wat heeft jullie het meest getriggerd en waarom?\n</b></p><p>Zeer interessant vonden we het zien van het ontwerpproces. Tijdens de lezing werd een project niet louter als eindproduct voorgesteld, maar bekeken we het hele proces. Hoe een idee kan groeien tot een volwaardig project is zeer interessant om te volgen, zeker bij een ontwerper als Jonas die een eigenwijze methode gebruikt. Jonas benadrukte hier ook dat het belangrijk is om fouten durven te maken en om hieruit te leren.\n</p><p>Door te experimenteren kan je je juist meer inleven in het proces. Maquettes maken en experimenteren zonder te weten waar je zult eindigen, zou beschouwd moeten worden als een fundamentele ontwerpmethode. Een tegenvaller tijdens het experimenteren kan soms  juist onverwachte inspiratie brengen waardoor men terug op het goede spoor komt. Door te blijven experimenteren bekijk je het steeds van een ander perspectief en kan je afstand nemen van je eigen project. Hierdoor geef je het mogelijks een derde of grotere dimensie.\n</p><p>\n</p><p><b>Wat vonden jullie moeilijk om te interpreteren en waarom?\n</b></p><p>Jonas vertelde dat je soms geen concept nodig hebt, maar kan vertrekken vanuit je intuïtie. Hier kon ik hem deels in volgen, toch zeker na het zien van zijn voorbeeld van het Daybed. Maar anderzijds staat het concept centraal in onze opleiding. Via een concept kan je kapstokjes vormen en zo van een uitgebreide brainstorm stelselmatig naar een eindproduct werken. Wat Jonas liet zien is dat dit proces soms geen concept nodig heeft. Een proces is natuurlijk belangrijk om diepte te brengen in je verhaal en om het over te brengen naar de klant, maar in zijn proces wordt meer vanuit buikgevoel gewerkt tegenover wat wij aangeleerd krijgen. Durven het concept loslaten sluit ook perfect aan bij zijn filosofie. Het is juist door zichzelf los te koppelen van het concept en te experimenteren dat je gemakkelijker intuïtief kan werken.</p><p><a href=\"https://www.jonasvanput.com\" class=\"text-danger\">Website Jonas Van Put&nbsp;</a></p>\n                </div>\n                <div class=\"col-12 col-md-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-if=\"cardsAmount > 2\">\n                     <p>Maak met een paar muisklikken uw eigen website! Mobirise helpt u de ontwikkeltijd te verkorten door u een veelzijdige website-editor te bieden met een drag-en-drop interface. Mobirise Website Builder maakt met een paar muisklikken leuke, retina- en mobielvriendelijke websites. Mobirise is een van de gemakkelijkst apps beschikbaar voor het ontwikkelen van websites. Het laat je ook toe zoveel websites te ontwerpen als u wilt gezien het een desktop-app is.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rJHkAtWGhT",
           "_anchor": "content3-p",
           "_protectedParams": [],
@@ -3352,7 +3352,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <select title=\"Kaarten\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                     <p>WeWantMore studio werd jaren geleden opgestart als ‘Pinkeye’, en werd ondertussen veranderd van naam naar WeWantMore. In het team zitten zo’n 40-tal werknemers met elk hun eigen specialisatie zoals product ontwikkelaars, projectmanagers, een creatief directeur voor interieurarchitectuur, een creatief directeur voor brand design en tenslotte een ondersteunend team. Ze ontwerpen voor merken. Belangrijk bij WeWantMore studio is open denken dat vanuit een dialoog ontstaat.</p>\n                </div>\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                     <p><b>Filosofie\n</b></p><p>Het doel van design voor WeWantMore studio is om emoties op te wekken. Het bureau spoort aan om ongelimiteerd te denken en multidisciplinair te werk te gaan. Niet enkel interieurarchitect zijn maar een veelzijdige ontwerper die grenzen durft te verleggen. Het is heel belangrijk om emotie teweeg te brengen, en om te verrassen.\n</p><p>Een eerste vraag die ze beantwoorden bij het proces van branding is wat het merk moet uitstralen. Merken zijn sterke communicatiemiddelen en hebben een grote invloed op onze dagelijkse handelingen. Hoe een merk wordt tentoongesteld is van groot belang voor hoe het wordt gepercipieerd door de consument. Het bureau heeft geen eigen huisstijl maar wil luisteren naar wat de klant belangrijk vindt en gaat van daaruit te werk om een unieke stijl voor het project te creëren. De brand values zijn de elementen die de klant belangrijk vindt in het concept. Het bureau gaat deze brand values analyseren en vervolgens creëren ze mood video’s en mood teksten. Waar moodboards tekortschieten en te weinig communicatief zijn door de eenzijdigheid van het visuele, zijn mood video’s verrijkend door geluiden en bewegende beelden. Een mood video bevat geen details die op foto’s staan maar bevat door de mix van beelden, muziek en de snelheid een algemene sfeer en kan een klant zintuiglijk prikkelen en emotioneel raken. De mood video toont de eerste essentiële elementen voor het merk. Doordat de brand values geanalyseerd worden en de klant nauw samenwerkt met het bureau, krijgt de klant het gevoel zelf deel te zijn van het proces.\n</p><p><b>Werk\n</b></p><p>Het bureau ontwerpt voor merken, en bouwt een totaalconcept uit in een unieke stijl. Bij een project komt alles samen tot een eindproduct waarbij elk aspect grondig is onderzocht en uitgewerkt. ‘Hoeked Doughnuts’ kwam tot stand nadat de eigenaar het bureau carte blanche gaf. Het bureau overtuigde hem om vierkante donuts te maken met verschillende vullingen en toppings. ‘Hoeked’ verwijst enerzijds naar de vorm van de donuts, en anderzijds naar hoe gek of ‘hooked’ we op de donuts zijn. Elk aspect werd ontworpen, van verpakkingen voor de donuts, tot de social media-accounts en het interieur van de winkel.\n</p><p>Bij een ontwerp voor een jagershotel in Rochefort met restaurant besliste men om een terrazzovloer te maken met koeienbeenderen. De koeienbeenderen werden verhakt en in de vloer gegoten. Ook rode marmer werd gebruikt omdat deze lijkt op biefstuk. Marmer is een heel glad materiaal dus niet goed voor de akoestiek. Zo begonnen ze zelf te experimenteren met de vorm ervan.\n</p><p>Bij een ander project dat het bureau uitvoerde, ‘Rebelle’, een fitnessclub in Luik, wenste de managers bloemen in het interieur. Ook in de merchandise als kleren wenste ze bloemen. Een eerste minimalistisch ontwerp met de naam ‘Rebelle’ op een grijze achtergrond, was niet wat het koppel zocht, ze miste naar eigen zeggen bloemen. Met deze feedback ging de studio aan de slag. Ze beslisten geen bloemen te integreren in het ontwerp, maar de structuur van een anatomisch weergegeven spierbundel abstract weer te geven samen met gebogen en vervlochten lichtgroene strepen, wat resulteerde als een dynamisch en energiek beeld. Het koppel was zeer tevreden met dit ontwerp. Bij dit project was het belangrijk om actief te luisteren naar de klant en te luisteren naar feedback. Het is belangrijk te luisteren waarom de klant een bepaalde feedback geeft. Vooral wanneer een klant een concept in gedachten heeft voor een project, maar het moeilijk kan verwoorden is luisteren naar de onderliggende boodschap van de feedback belangrijk.\n</p><p><b>Wat heeft jullie het meest getriggerd en waarom?\n</b></p><p>Ons gevoel bij deze lezing was zeer positief. De interactieve aanpak van de sprekers bij het begin van de lezing was verrassend. Ze deden ons na te denken over vragen die we konden stellen aan hen, omdat door vragen te stellen, de theorie praktijk wordt.</p><p>In deze lezing kwam het begrip multidisciplinariteit ook erg naar voren. Ze spoorden ons aan om multidisciplinair te werken, omdat het onze blik verruimt en helpt om grenzen te verleggen aan onze eigen manier van werken en ons team waar we deel van uitmaken. Verschillende meningen verrijken ons eigen perspectief. Dit triggerde ons het meest om ons vaker te begeven op een multidisciplinair gebied. Wat we echter minder goed begrijpen aan de richting interieurarchitectuur en de faculteit ontwerpwetenschappen in het algemeen is waarom er zo weinig wordt gebroken met de grenzen van elk vak op zich. Hoewel de faculteit ontwerpwetenschappen de richtingen architectuur, productontwikkeling, en interieurarchitectuur omvat en deze drie richtingen inhoudelijk heel dicht bij elkaar aansluiten, wordt er veel te weinig multidisciplinair gewerkt in onze academie, vinden we. We blijven te veel binnen de grenzen van onze richting. Ook nu, in module 10, worden we geacht om multidisciplinair te werken, maar we blijven binnen ons eigen vakgebied interieurarchitectuur, terwijl het heel interessant zou zijn om samen te werken met studenten productontwikkeling, grafisch ontwerp of zelfs studenten beeldende kunsten.\n</p><p><b>Wat vonden jullie moeilijk om te interpreteren en waarom?\n</b></p><p>We vinden dat er in de richting interieurarchitectuur redelijk wat aandacht besteed wordt aan conceptueel denken. Er werd echter tijdens de lezing gezegd dat kunst-opleidingen te weinig focussen op conceptvorming en dat conceptueel denken voor studenten of net afgestudeerden moeilijk is. Dit is uiteraard een leerproces, maar we zijn ons ervan bewust dat de vertaling van een concept naar ontwerp mag niet te letterlijk zijn en de ontwerper moet kunnen verantwoorden waarom hij bepaalde keuzes maakte. Hij moet zijn ontwerp conceptueel kunnen duiden en verwoorden.</p>\n                </div>\n                <div class=\"col-12 col-md-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-if=\"cardsAmount > 2\">\n                     <p>Maak met een paar muisklikken uw eigen website! Mobirise helpt u de ontwikkeltijd te verkorten door u een veelzijdige website-editor te bieden met een drag-en-drop interface. Mobirise Website Builder maakt met een paar muisklikken leuke, retina- en mobielvriendelijke websites. Mobirise is een van de gemakkelijkst apps beschikbaar voor het ontwikkelen van websites. Het laat je ook toe zoveel websites te ontwerpen als u wilt gezien het een desktop-app is.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <select title=\"Kaarten\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                     <p>WeWantMore studio werd jaren geleden opgestart als ‘Pinkeye’, en werd ondertussen veranderd van naam naar WeWantMore. In het team zitten zo’n 40-tal werknemers met elk hun eigen specialisatie zoals product ontwikkelaars, projectmanagers, een creatief directeur voor interieurarchitectuur, een creatief directeur voor brand design en tenslotte een ondersteunend team. Ze ontwerpen voor merken. Belangrijk bij WeWantMore studio is open denken dat vanuit een dialoog ontstaat.</p>\n                </div>\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                     <p><b>Filosofie\n</b></p><p>Het doel van design voor WeWantMore studio is om emoties op te wekken. Het bureau spoort aan om ongelimiteerd te denken en multidisciplinair te werk te gaan. Niet enkel interieurarchitect zijn maar een veelzijdige ontwerper die grenzen durft te verleggen. Het is heel belangrijk om emotie teweeg te brengen, en om te verrassen.\n</p><p>Een eerste vraag die ze beantwoorden bij het proces van branding is wat het merk moet uitstralen. Merken zijn sterke communicatiemiddelen en hebben een grote invloed op onze dagelijkse handelingen. Hoe een merk wordt tentoongesteld is van groot belang voor hoe het wordt gepercipieerd door de consument. Het bureau heeft geen eigen huisstijl maar wil luisteren naar wat de klant belangrijk vindt en gaat van daaruit te werk om een unieke stijl voor het project te creëren. De brand values zijn de elementen die de klant belangrijk vindt in het concept. Het bureau gaat deze brand values analyseren en vervolgens creëren ze mood video’s en mood teksten. Waar moodboards tekortschieten en te weinig communicatief zijn door de eenzijdigheid van het visuele, zijn mood video’s verrijkend door geluiden en bewegende beelden. Een mood video bevat geen details die op foto’s staan maar bevat door de mix van beelden, muziek en de snelheid een algemene sfeer en kan een klant zintuiglijk prikkelen en emotioneel raken. De mood video toont de eerste essentiële elementen voor het merk. Doordat de brand values geanalyseerd worden en de klant nauw samenwerkt met het bureau, krijgt de klant het gevoel zelf deel te zijn van het proces.\n</p><p><b>Werk\n</b></p><p>Het bureau ontwerpt voor merken, en bouwt een totaalconcept uit in een unieke stijl. Bij een project komt alles samen tot een eindproduct waarbij elk aspect grondig is onderzocht en uitgewerkt. ‘Hoeked Doughnuts’ kwam tot stand nadat de eigenaar het bureau carte blanche gaf. Het bureau overtuigde hem om vierkante donuts te maken met verschillende vullingen en toppings. ‘Hoeked’ verwijst enerzijds naar de vorm van de donuts, en anderzijds naar hoe gek of ‘hooked’ we op de donuts zijn. Elk aspect werd ontworpen, van verpakkingen voor de donuts, tot de social media-accounts en het interieur van de winkel.\n</p><p>Bij een ontwerp voor een jagershotel in Rochefort met restaurant besliste men om een terrazzovloer te maken met koeienbeenderen. De koeienbeenderen werden verhakt en in de vloer gegoten. Ook rode marmer werd gebruikt omdat deze lijkt op biefstuk. Marmer is een heel glad materiaal dus niet goed voor de akoestiek. Zo begonnen ze zelf te experimenteren met de vorm ervan.\n</p><p>Bij een ander project dat het bureau uitvoerde, ‘Rebelle’, een fitnessclub in Luik, wenste de managers bloemen in het interieur. Ook in de merchandise als kleren wenste ze bloemen. Een eerste minimalistisch ontwerp met de naam ‘Rebelle’ op een grijze achtergrond, was niet wat het koppel zocht, ze miste naar eigen zeggen bloemen. Met deze feedback ging de studio aan de slag. Ze beslisten geen bloemen te integreren in het ontwerp, maar de structuur van een anatomisch weergegeven spierbundel abstract weer te geven samen met gebogen en vervlochten lichtgroene strepen, wat resulteerde als een dynamisch en energiek beeld. Het koppel was zeer tevreden met dit ontwerp. Bij dit project was het belangrijk om actief te luisteren naar de klant en te luisteren naar feedback. Het is belangrijk te luisteren waarom de klant een bepaalde feedback geeft. Vooral wanneer een klant een concept in gedachten heeft voor een project, maar het moeilijk kan verwoorden is luisteren naar de onderliggende boodschap van de feedback belangrijk.\n</p><p><b>Wat heeft jullie het meest getriggerd en waarom?\n</b></p><p>Ons gevoel bij deze lezing was zeer positief. De interactieve aanpak van de sprekers bij het begin van de lezing was verrassend. Ze deden ons na te denken over vragen die we konden stellen aan hen, omdat door vragen te stellen, de theorie praktijk wordt.</p><p>In deze lezing kwam het begrip multidisciplinariteit ook erg naar voren. Ze spoorden ons aan om multidisciplinair te werken, omdat het onze blik verruimt en helpt om grenzen te verleggen aan onze eigen manier van werken en ons team waar we deel van uitmaken. Verschillende meningen verrijken ons eigen perspectief. Dit triggerde ons het meest om ons vaker te begeven op een multidisciplinair gebied. Wat we echter minder goed begrijpen aan de richting interieurarchitectuur en de faculteit ontwerpwetenschappen in het algemeen is waarom er zo weinig wordt gebroken met de grenzen van elk vak op zich. Hoewel de faculteit ontwerpwetenschappen de richtingen architectuur, productontwikkeling, en interieurarchitectuur omvat en deze drie richtingen inhoudelijk heel dicht bij elkaar aansluiten, wordt er veel te weinig multidisciplinair gewerkt in onze academie, vinden we. We blijven te veel binnen de grenzen van onze richting. Ook nu, in module 10, worden we geacht om multidisciplinair te werken, maar we blijven binnen ons eigen vakgebied interieurarchitectuur, terwijl het heel interessant zou zijn om samen te werken met studenten productontwikkeling, grafisch ontwerp of zelfs studenten beeldende kunsten.\n</p><p><b>Wat vonden jullie moeilijk om te interpreteren en waarom?\n</b></p><p>We vinden dat er in de richting interieurarchitectuur redelijk wat aandacht besteed wordt aan conceptueel denken. Er werd echter tijdens de lezing gezegd dat kunst-opleidingen te weinig focussen op conceptvorming en dat conceptueel denken voor studenten of net afgestudeerden moeilijk is. Dit is uiteraard een leerproces, maar we zijn ons ervan bewust dat de vertaling van een concept naar ontwerp mag niet te letterlijk zijn en de ontwerper moet kunnen verantwoorden waarom hij bepaalde keuzes maakte. Hij moet zijn ontwerp conceptueel kunnen duiden en verwoorden.</p><p><a href=\"https://wewantmore.studio\" class=\"text-danger\">Website WeWatntMore Studio</a></p>\n                </div>\n                <div class=\"col-12 col-md-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-if=\"cardsAmount > 2\">\n                     <p>Maak met een paar muisklikken uw eigen website! Mobirise helpt u de ontwikkeltijd te verkorten door u een veelzijdige website-editor te bieden met een drag-en-drop interface. Mobirise Website Builder maakt met een paar muisklikken leuke, retina- en mobielvriendelijke websites. Mobirise is een van de gemakkelijkst apps beschikbaar voor het ontwikkelen van websites. Het laat je ook toe zoveel websites te ontwerpen als u wilt gezien het een desktop-app is.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rJMqLdSseh",
           "_anchor": "content3-1x",
           "_protectedParams": [],
@@ -7567,7 +7567,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1839-2000x1513.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -7586,7 +7586,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-905-2000x1188.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -7693,7 +7693,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Het experiment met tafels leidde tot het uiteindelijke idee voor de installatie: een installatie die bestond uit drie rechthoekige en statische zuilen van elks 50cm op 50cm en 2 meter hoog. Deze eenvoudige vorm was genoeg om het statische karakter van de politiek te symboliseren. We onderzochten wat de mogelijkheden waren voor de performer om met de installatie in interactie te gaan, we onderzochten licht- en schaduwwerking en zochten samen oplossingen voor problemen.&nbsp;<div>\n</div><div><br><div><b>\n</b></div></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Het experiment met tafels leidde tot het uiteindelijke idee voor de installatie: een installatie die bestond uit drie rechthoekige en statische zuilen van elks 50cm op 50cm en 2 meter hoog. Deze eenvoudige vorm was genoeg om het statische karakter van de politiek te symboliseren. We onderzochten wat de mogelijkheden waren voor de performer om met de installatie in interactie te gaan, we onderzochten licht- en schaduwwerking en zochten samen oplossingen voor problemen.&nbsp;<div>\n</div><div><br><div><b>\n</b></div></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rNlU7jM3Bh",
           "_anchor": "content1-4x",
           "_protectedParams": [],
@@ -7976,7 +7976,7 @@
             }
           },
           "_name": "slider2",
-          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\" inline>\n        <input type=\"range\" title=\"Breedte\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"100\" inline>\n        <input type=\"range\" title=\"Hoogte\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"690\" inline>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Breedte\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"100\" inline>\n        <input type=\"range\" title=\"Hoogte\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"690\" inline>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
           "_cid": "rNj6wM93Be",
           "_anchor": "slider2-4w",
           "_protectedParams": [
@@ -8082,7 +8082,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">In het atelier van campus Mutsaard, ook bekend als MEKANO, gingen we &nbsp;aan de slag met onze materialen, Met houten kepers, schroeven en karton bouwden we onze installatie. Eén kant van elke zuil lieten we open, zodat drie leden van onze groep een zuil konden dragen en verplaatsen tijdens de performance.</div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">In het atelier van campus Mutsaard, ook bekend als MEKANO, gingen we &nbsp;aan de slag met onze materialen, Met houten kepers, schroeven en karton bouwden we onze installatie. Eén kant van elke zuil lieten we open, zodat drie leden van onze groep een zuil konden dragen en verplaatsen tijdens de performance en de <a href=\"page12.html\" class=\"text-danger\">repetities</a>.</div>\n        </div>\n    </div>\n</section>",
           "_cid": "rNiNHGRmtE",
           "_anchor": "content1-4t",
           "_protectedParams": [],
@@ -8952,27 +8952,8 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-9003-2000x1500.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "SLIDER Volledig scherm",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Kies uit de grote selectie aan kant en klaar blocks - jumbotrons, hero afbeeldingen, parallax scrolling, video, achtergronden, hamburger menu enz...",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/7ebc323f-1564-4ab5-a818-adac886e11d6-1-201-a-2000x1216.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -8988,323 +8969,10 @@
                 "contentAlign": "center",
                 "text": "Kies uit de grote selectie aan kant en klaar blocks - jumbotrons, hero afbeeldingen, parallax scrolling, video, achtergronden, hamburger menu enz...",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
-              }
-            ]
-          }
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Wat ons geïnspireerd heeft voor de dans, is het werk van twee Belgische choreografen, Sidi Larbi Cherkaoui en Anne Teresa De Keersmaeker. Zij zijn gespecialiseerd in hedendaagse dans en kunnen op een abstracte manier een verhaal weergeven.<div>Tijdens het maken van de choreografie in de zalen van het Stedelijk Conservatorium van Mechelen werd de choreograaf van ons project geïnspireerd door bewegingen die Maurice Béjart creëerde op De Bolero van componist Ravel.&nbsp;</div><div>Een volledig eigen versie van deze dansen vormde de rode draad in de performance en vertelde de boodschap die we wilden overbrengen met ons project.</div><div> Beperking op kunst en cultuur is een verhaal van alle tijden. Doorheen de geschiedenis zijn er altijd evoluties in de kunst en cultuur geweest, dan uitbreidingen, dan beperkingen. In de toekomst zal kunst en cultuur altijd blijven evolueren, maar hoe het ook ingeperkt wordt, kunstenaars zullen nooit stoppen met iets verbazingwekkends te creëren.&nbsp;</div><div><b><br></b></div></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rNir3q9Q4K",
-          "_anchor": "content1-4r",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".content-slider": {
-              "display": "-webkit-flex",
-              "justify-content": "center",
-              "-webkit-justify-content": "center"
-            },
-            ".modal-body .close": {
-              "background": "#1b1b1b"
-            },
-            ".modal-body .close span": {
-              "font-style": "normal"
-            },
-            ".carousel-inner > .active, .carousel-inner > .next, .carousel-inner > .prev": {
-              "display": "-webkit-flex"
-            },
-            ".carousel-control .icon-next, .carousel-control .icon-prev": {
-              "margin-top": "-18px",
-              "font-size": "40px",
-              "line-height": "27px"
-            },
-            ".carousel-control:hover": {
-              "background": "#1b1b1b",
-              "color": "#fff",
-              "opacity": "1"
-            },
-            "@media (max-width: 767px)": {
-              ".container .carousel-control": {
-                "margin-bottom": "0"
               },
-              ".content-slider-wrap": {
-                "width": "100%!important"
-              }
-            },
-            ".boxed-slider": {
-              "position": "relative",
-              "padding": "93px 0"
-            },
-            ".boxed-slider > div": {
-              "position": "relative"
-            },
-            ".container img": {
-              "width": "100%"
-            },
-            ".container img + .row": {
-              "position": "absolute",
-              "top": "50%",
-              "left": "0",
-              "right": "0",
-              "-webkit-transform": "translateY(-50%)",
-              "-moz-transform": "translateY(-50%)",
-              "transform": "translateY(-50%)",
-              "z-index": "2"
-            },
-            ".mbr-section": {
-              "padding": "0",
-              "background-attachment": "scroll"
-            },
-            ".mbr-table-cell": {
-              "padding": "0"
-            },
-            ".container .carousel-indicators": {
-              "margin-bottom": "3px"
-            },
-            ".carousel-caption": {
-              "top": "50%",
-              "right": "0",
-              "bottom": "auto",
-              "left": "0",
-              "display": "-webkit-flex",
-              "align-items": "center",
-              "-webkit-transform": "translateY(-50%)",
-              "transform": "translateY(-50%)",
-              "-webkit-align-items": "center"
-            },
-            ".mbr-overlay": {
-              "z-index": "1"
-            },
-            ".container-slide.container": {
-              "width": "100%",
-              "min-height": "100vh",
-              "padding": "0"
-            },
-            ".carousel-item": {
-              "background-position": "50% 50%",
-              "background-repeat": "no-repeat",
-              "background-size": "cover",
-              "-o-transition": "-o-transform 0.6s ease-in-out",
-              "-webkit-transition": "-webkit-transform 0.6s ease-in-out",
-              "transition": "transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out, -o-transform 0.6s ease-in-out",
-              "-webkit-backface-visibility": "hidden",
-              "backface-visibility": "hidden",
-              "-webkit-perspective": "1000px",
-              "perspective": "1000px",
-              ".container": {
-                "@media (max-width: 576px)": {
-                  "width": "100%"
-                }
-              }
-            },
-            ".carousel-item-next.carousel-item-left, .carousel-item-prev.carousel-item-right": {
-              "-webkit-transform": "translate3d(0, 0, 0)",
-              "transform": "translate3d(0, 0, 0)"
-            },
-            ".active.carousel-item-right, .carousel-item-next": {
-              "-webkit-transform": "translate3d(100%, 0, 0)",
-              "transform": "translate3d(100%, 0, 0)"
-            },
-            ".active.carousel-item-left, .carousel-item-prev": {
-              "-webkit-transform": "translate3d(-100%, 0, 0)",
-              "transform": "translate3d(-100%, 0, 0)"
-            },
-            ".mbr-slider": {
-              ".carousel-control": {
-                "top": "50%",
-                "width": "50px",
-                "height": "50px",
-                "margin-top": "-1.5rem",
-                "font-size": "35px",
-                "background-color": "rgba(0, 0, 0, 0.5)",
-                "border": "2px solid #fff",
-                "border-radius": "50%",
-                "transition": "all .3s",
-                "&.carousel-control-prev": {
-                  "left": "0",
-                  "margin-left": "2.5rem"
-                },
-                "&.carousel-control-next": {
-                  "right": "0",
-                  "margin-right": "2.5rem"
-                },
-                ".mbr-iconfont": {
-                  "font-size": "1.5rem"
-                },
-                "@media (max-width: 767px)": {
-                  "top": "auto",
-                  "bottom": "1rem"
-                }
-              },
-              ".carousel-indicators": {
-                "position": "absolute",
-                "bottom": "0",
-                "margin-bottom": "1.5rem !important",
-                "li": {
-                  "max-width": "15px",
-                  "height": "15px",
-                  "width": "15px",
-                  "max-height": "15px",
-                  "margin": "3px",
-                  "background-color": "rgba(0, 0, 0, 0.5)",
-                  "border": "2px solid #fff",
-                  "border-radius": "50%",
-                  "opacity": ".5",
-                  "transition": "all .3s",
-                  "&.active, &:hover": {
-                    "opacity": ".9"
-                  },
-                  "&::after, &::before": {
-                    "content": "none"
-                  }
-                },
-                "&.ie-fix": {
-                  "left": "50%",
-                  "display": "block",
-                  "width": "60%",
-                  "margin-left": "-30%",
-                  "text-align": "center"
-                },
-                "@media (max-width: 576px)": {
-                  "display": "none !important"
-                }
-              },
-              "> .container": {
-                "img": {
-                  "width": "100%",
-                  "+ .row": {
-                    "position": "absolute",
-                    "top": "50%",
-                    "right": "0",
-                    "left": "0",
-                    "z-index": "2",
-                    "-moz-transform": "translateY(-50%)",
-                    "-webkit-transform": "translateY(-50%)",
-                    "transform": "translateY(-50%)"
-                  }
-                },
-                ".carousel-indicators": {
-                  "margin-bottom": "3px"
-                },
-                "@media (max-width: 576px)": {
-                  ".carousel-control": {
-                    "margin-bottom": "0"
-                  }
-                }
-              },
-              ".mbr-section": {
-                "padding": "0",
-                "background-attachment": "scroll"
-              },
-              ".mbr-table-cell": {
-                "padding": "0"
-              }
-            },
-            ".carousel-item .container.container-slide": {
-              "position": "initial",
-              "width": "auto",
-              "min-height": "0"
-            },
-            ".full-screen": {
-              ".slider-fullscreen-image": {
-                "min-height": "100vh",
-                "background-repeat": "no-repeat",
-                "background-position": "50% 50%",
-                "background-size": "cover",
-                "&.active": {
-                  "display": "-o-flex"
-                }
-              },
-              "& .container": {
-                "width": "auto",
-                "padding-right": "0",
-                "padding-left": "0"
-              },
-              ".carousel-item .container.container-slide": {
-                "width": "100%",
-                "min-height": "100vh",
-                "padding": "0",
-                "& img": {
-                  "display": "none"
-                }
-              }
-            },
-            ".mbr-background-video-preview": {
-              "position": "absolute",
-              "top": "0",
-              "right": "0",
-              "bottom": "0",
-              "left": "0"
-            },
-            ".mbr-overlay ~ .container-slide": {
-              "z-index": "auto"
-            },
-            ".mbr-slider.slide .container": {
-              "overflow": "hidden",
-              "padding": "0"
-            },
-            ".carousel-inner": {
-              "height": "100%"
-            },
-            ".slider-fullscreen-image": {
-              "height": "100%",
-              "background": "transparent !important"
-            },
-            ".image_wrapper": {
-              "height": "(@sliderHSize * 1px)",
-              "width": "100%",
-              "position": "relative",
-              "display": "inline-block"
-            },
-            ".image_wrapper img": {
-              "width": "auto !important",
-              "height": "100%"
-            },
-            ".carousel-item .container-slide": {
-              "text-align": "center"
-            },
-            ".content-slider-wrap": {
-              "width": "(@sliderWSize * 1%)"
-            }
-          },
-          "_name": "slider2",
-          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\" inline>\n        <input type=\"range\" title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Breedte\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"100\" inline>\n        <input type=\"range\" title=\"Hoogte\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"700\" inline>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
-          "_cid": "rNiy7rnUje",
-          "_anchor": "slider2-4s",
-          "_protectedParams": [
-            "slides__autoplay",
-            "slides__autoplayInterval",
-            "slides__showBullets",
-            "slides"
-          ],
-          "_global": false,
-          "_once": false,
-          "_params": {
-            "slides__autoplay": false,
-            "slides__autoplayInterval": 4000,
-            "slides__showBullets": false,
-            "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-8971-2000x1741.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/20b38ab5-94cf-438b-be84-639e6602cc41-960x720.png",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -9351,10 +9019,35 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#767676"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Bij hedendaagse dans wordt vaak een verhaal verteld op een abstracte manier. We beseften dat de boodschap zoals wij ze wilden vertalen in een abstracte performance, misschien niet door het hele publiek begrepen zou kunnen worden. We wilden wel dat de boodschap luid en duidelijk was, dus hebben we voor een ander soort performance gekozen. Hierbij zetten we de creativiteit in de verf, en niet de creatieveling.<div><span style=\"font-size: 1rem;\">Ook daarvan maakten we schetsen van de opstelling van de installaties, hoe de performer reageert op de verandering van de plaats van de installaties, en hoe de performer ermee in interactie treedt. De tijdlijn geeft het verloop weer van de performance.</span><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Wat ons geïnspireerd heeft voor de dans, is het werk van twee Belgische choreografen, Sidi Larbi Cherkaoui en Anne Teresa De Keersmaeker. Zij zijn gespecialiseerd in hedendaagse dans en kunnen op een abstracte manier een verhaal weergeven.<div>Tijdens het maken van de choreografie in de zalen van het Stedelijk Conservatorium van Mechelen werd de choreograaf van ons project geïnspireerd door bewegingen die Maurice Béjart creëerde op De Bolero van componist Ravel.&nbsp;</div><div>Een volledig eigen versie van deze dansen vormde de rode draad in de performance en vertelde de boodschap die we wilden overbrengen met ons project.</div><div> Beperking op kunst en cultuur is een verhaal van alle tijden. Doorheen de geschiedenis zijn er altijd evoluties in de kunst en cultuur geweest, dan uitbreidingen, dan beperkingen. In de toekomst zal kunst en cultuur altijd blijven evolueren, maar hoe het ook ingeperkt wordt, kunstenaars zullen nooit stoppen met iets verbazingwekkends te creëren.&nbsp;</div><div><b><br></b></div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rNir3q9Q4K",
+          "_anchor": "content1-4r",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Bij hedendaagse dans wordt vaak een verhaal verteld op een abstracte manier. We beseften dat de boodschap zoals wij ze wilden vertalen in een abstracte performance, misschien niet door het hele publiek begrepen zou kunnen worden. We wilden wel dat de boodschap luid en duidelijk was, dus hebben we voor een ander soort performance gekozen. Hierbij zetten we de creativiteit in de verf, en niet de creatieveling.<div><span style=\"font-size: 1rem;\">Ook daarvan maakten we schetsen van de opstelling van de installaties, hoe de performer reageert op de verandering van de plaats van de installaties, en hoe de performer ermee in interactie treedt. De tijdlijn geeft het verloop weer van de <a href=\"page12.html\" class=\"text-danger\">performance</a>.&nbsp;</span><br></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rMpKD82moS",
           "_anchor": "content1-49",
           "_protectedParams": [],
@@ -9947,7 +9640,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b>Op 10 januari was de presentatie van ons project. In een tentoonstellingsruimte van campus Mutsaard, de wintertuin, stelden we de zuilen op en lieten we met behulp van een beamer de film projecteren op de muur achteraan in de ruimte. We maakten pamfletten met quotes van verschillende mensen, waarmee we een protest van tegenover elkaar staande meningen tonen.</b></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b>Op 10 januari was de presentatie van ons <a href=\"page3.html\" class=\"text-danger\">project</a>. In een tentoonstellingsruimte van campus Mutsaard, de wintertuin, stelden we de zuilen op en lieten we met behulp van een beamer de film projecteren op de muur achteraan in de ruimte. We maakten pamfletten met quotes van verschillende mensen, waarmee we een protest van tegenover elkaar staande meningen tonen.</b></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rNn84thdLp",
           "_anchor": "content1-59",
           "_protectedParams": [],
@@ -10677,98 +10370,6 @@
         {
           "alias": false,
           "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".row-links": {
-              "width": "100%",
-              "-webkit-justify-content": "center",
-              "justify-content": "center"
-            },
-            ".social-row": {
-              "width": "100%",
-              "-webkit-justify-content": "center",
-              "justify-content": "center"
-            },
-            ".media-container-row": {
-              "-webkit-flex-direction": "column",
-              "flex-direction": "column",
-              "-webkit-justify-content": "center",
-              "justify-content": "center",
-              "-webkit-align-items": "center",
-              "align-items": "center",
-              ".foot-menu": {
-                "list-style": "none",
-                "display": "flex",
-                "-webkit-justify-content": "center",
-                "justify-content": "center",
-                "-webkit-flex-wrap": "wrap",
-                "flex-wrap": "wrap",
-                "padding": "0",
-                "margin-bottom": "0",
-                "li": {
-                  "padding": "0 1rem 1rem 1rem",
-                  "p": {
-                    "margin": "0"
-                  }
-                }
-              },
-              ".social-list": {
-                "padding-left": "0",
-                "margin-bottom": "0",
-                "list-style": "none",
-                "display": "flex",
-                "-webkit-flex-wrap": "wrap",
-                "flex-wrap": "wrap",
-                "-webkit-justify-content": "flex-end",
-                "justify-content": "flex-end",
-                ".mbr-iconfont-social": {
-                  "font-size": "1.5rem",
-                  "color": "#ffffff"
-                },
-                ".soc-item": {
-                  "margin": "0 .5rem"
-                },
-                "a": {
-                  "margin": "0",
-                  "opacity": ".5",
-                  "-webkit-transition": ".2s linear",
-                  "transition": ".2s linear",
-                  "&:hover": {
-                    "opacity": "1"
-                  }
-                },
-                "@media (max-width: 767px)": {
-                  "-webkit-justify-content": "center",
-                  "justify-content": "center"
-                }
-              },
-              ".row-copirayt": {
-                "word-break": "break-word",
-                "width": "100%",
-                "p": {
-                  "width": "100%"
-                }
-              }
-            }
-          },
-          "_name": "footer7",
-          "_customHTML": "<section group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Menu items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Social items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Nadruk effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Achtergrondafbeelding\" value=\"../_images/background5.jpg\">\n            <input type=\"color\" title=\"Achtergrondkleur\" value=\"#000000\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Doorschijnendheid\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <ul class=\"foot-menu\" mbr-list mbr-list-grow=\"menuItems\">\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">\n                        <a class=\"text-white mbr-bold\" href=\"index.html\" target=\"_blank\">Startpagina</a>\n                    </li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">\n                        <a class=\"text-white mbr-bold\" href=\"page2.html\" target=\"_blank\">Over ons</a>\n                    </li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"page1.html\" class=\"text-white\"><b>Proces</b></a></li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"page3.html\" class=\"text-white\"><b>Intense</b></a></li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"></li>\n                </ul>\n            </div>\n            <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-twitter socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-vimeo socicon\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.instagram.com/in.tense10/\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\" style=\"color: rgb(240, 139, 164); fill: rgb(240, 139, 164);\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-vimeo socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-behance socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                        </a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"row row-copirayt\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\">\n                    © Copyright - All Rights Reserved<br>Intense\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rJcr6hrGQt",
-          "_anchor": "footer7-5o",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "footers",
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
             ".navbar": {
               "padding": ".5rem 0",
               "background": "@menuBgColor",
@@ -11236,83 +10837,6 @@
         {
           "alias": false,
           "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-media span": {
-              "font-size": "48px",
-              "cursor": "pointer",
-              "background-color": "#ffffff",
-              "border-radius": "50%",
-              "width": "6rem",
-              "height": "6rem",
-              "line-height": "6rem",
-              "position": "relative",
-              "display": "inline-block",
-              "transition": "all 0.25s",
-              "color": "#353535",
-              "&.mbri-play:before": {
-                "position": "absolute",
-                "left": "50%",
-                "-webkit-transform": "translateX(-35%)",
-                "-moz-transform": "translateX(-35%)",
-                "-ms-transform": "translateX(-35%)",
-                "-o-transform": "translateX(-35%)",
-                "transform": "translateX(-35%)"
-              }
-            },
-            ".modalWindow": {
-              "position": "fixed",
-              "z-index": "5000",
-              "left": "0",
-              "top": "0",
-              "background-color": "rgba(61, 61, 61, 0.65)",
-              "width": "100%",
-              "height": "100%",
-              ".modalWindow-container": {
-                "display": "table-cell",
-                "vertical-align": "middle"
-              },
-              ".modalWindow-video": {
-                "height": "calc(80vw / 1.778)",
-                "width": "80vw",
-                "margin": "0 auto"
-              }
-            },
-            "a.close": {
-              "position": "absolute",
-              "right": "4vw",
-              "top": "4vh",
-              "color": "#ffffff",
-              "z-index": "5000000",
-              "font-size": "37px",
-              "background": "#000",
-              "padding": "20px",
-              "border-radius": "50%",
-              "&:hover": {
-                "color": "#ffffff"
-              }
-            }
-          },
-          "_name": "header8",
-          "_customHTML": "<section class=\"header8\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"PlayerVimeo\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Schermvullend\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Toon titel\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Toon tekst\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Toon video-popup\" name=\"showVideoPopUp\" checked>\n        <input type=\"text\" title=\"Modal Video\" name=\"modalVideo\" value=\"https://vimeo.com/380476184?loop=0&autoplay=0\" condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Toon omschrijving\" name=\"showDescription\" condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Toon knoppen\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" value=\"../_images/background4.jpg\" title=\"Achtergrondafbeelding\" parallax selected>\n            <input type=\"color\" value=\"#7f1933\" title=\"Achtergrondkleur\">\n            <input type=\"video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\" title=\"Achtergrondvideo\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#ff3366\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Doorschijnendheid\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center py-2 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">Repetities en performance</span></h1>\n                <p class=\"mbr-text align-center py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\">\n                        Schermvullende intro met achtergrondafbeelding en video popup\n                </p>\n                <div class=\"mbr-media show-modal align-center py-2\" mbr-if=\"showVideoPopUp\" data-modal=\".modalWindow\">\n                         <span mbr-icon class=\"mbr-iconfont mbri-play\" style=\"color: rgb(206, 191, 175); fill: rgb(206, 191, 175);\"></span>\n                </div>\n                <div mbr-text class=\"icon-description align-center font-italic pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showDescription && showVideoPopUp\" data-app-selector=\".icon-description\">\n                        Uitleg pictogrammen\n                </div>\n                <div class=\"mbr-section-btn text-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">MEER</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showVideoPopUp\">\n        <div class=\"modalWindow\" style=\"display: none;\">\n            <div class=\"modalWindow-container\">\n                <div class=\"modalWindow-video-container\">\n                    <div class=\"modalWindow-video\">\n                        <iframe width=\"100%\" height=\"100%\" data-src=\"{{modalVideo}}\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"mbri-close mbr-iconfont closeModal\"></span>\n                        <span class=\"sr-only\">Sluit</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rNpEMEKQAU",
-          "_anchor": "header8-5t",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
@@ -11607,7 +11131,7 @@
             }
           },
           "_name": "slider2",
-          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\" inline>\n        <input type=\"range\" title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\" inline>\n        <input type=\"range\" title=\"Breedte\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"98\" inline>\n        <input type=\"range\" title=\"Hoogte\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"680\" inline>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Breedte\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"98\" inline>\n        <input type=\"range\" title=\"Hoogte\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"680\" inline>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
           "_cid": "rNpOypVk3j",
           "_anchor": "slider2-5x",
           "_protectedParams": [
@@ -11743,6 +11267,30 @@
         {
           "alias": false,
           "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Hieronder zijn een aantal filmfragmenten te zien van repetities in het Sint-Theresiacollege in Kapelle-Op-Den-Bos. We zochten naar een gepaste plek om te filmen. Uiteindelijk kozen we voor het podium, omdat we daar het licht &nbsp;konden manipuleren dankzij de beschikbare lichtinstallatie. We zochten ook naar gepaste outfits voor de performer. Voor de sound van onze film, waren we op zoek naar een repetitief stuk. Uiteindelijk kozen we voor 'Piano Phase' van Steve Reich omdat dit stuk zich perfect mengt met de film. Het geluid is een constante en verdwijnt naar de achtergrond bij het bekijken van de film <a href=\"page3.html\" class=\"text-danger\">Intense</a>.</p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-6f",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rNs8w4Df8Z",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
             "background": "@bgColor",
             "& when (@fullWidth = false)": {
               "padding-top": "(@paddingTop * 15px)",
@@ -11804,6 +11352,98 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "-webkit-justify-content": "center",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "-webkit-justify-content": "center",
+              "justify-content": "center"
+            },
+            ".media-container-row": {
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column",
+              "-webkit-justify-content": "center",
+              "justify-content": "center",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              ".foot-menu": {
+                "list-style": "none",
+                "display": "flex",
+                "-webkit-justify-content": "center",
+                "justify-content": "center",
+                "-webkit-flex-wrap": "wrap",
+                "flex-wrap": "wrap",
+                "padding": "0",
+                "margin-bottom": "0",
+                "li": {
+                  "padding": "0 1rem 1rem 1rem",
+                  "p": {
+                    "margin": "0"
+                  }
+                }
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "-webkit-flex-wrap": "wrap",
+                "flex-wrap": "wrap",
+                "-webkit-justify-content": "flex-end",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.5rem",
+                  "color": "#ffffff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "-webkit-transition": ".2s linear",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              },
+              ".row-copirayt": {
+                "word-break": "break-word",
+                "width": "100%",
+                "p": {
+                  "width": "100%"
+                }
+              }
+            }
+          },
+          "_name": "footer7",
+          "_customHTML": "<section group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Menu items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Social items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Nadruk effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Achtergrondafbeelding\" value=\"../_images/background5.jpg\">\n            <input type=\"color\" title=\"Achtergrondkleur\" value=\"#000000\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Doorschijnendheid\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <ul class=\"foot-menu\" mbr-list mbr-list-grow=\"menuItems\">\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">\n                        <a class=\"text-white mbr-bold\" href=\"index.html\" target=\"_blank\">Startpagina</a>\n                    </li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">\n                        <a class=\"text-white mbr-bold\" href=\"page2.html\" target=\"_blank\">Over ons</a>\n                    </li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"page1.html\" class=\"text-white\"><b>Proces</b></a></li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"page3.html\" class=\"text-white\"><b>Intense</b></a></li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"></li>\n                </ul>\n            </div>\n            <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-twitter socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-vimeo socicon\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.instagram.com/in.tense10/\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\" style=\"color: rgb(240, 139, 164); fill: rgb(240, 139, 164);\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-vimeo socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-behance socicon\" style=\"color: rgb(0, 0, 0); fill: rgb(0, 0, 0);\"></span>\n                        </a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"row row-copirayt\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\">\n                    © Copyright - All Rights Reserved<br>Intense\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rJcr6hrGQt",
+          "_anchor": "footer7-5o",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
           "_params": {}
         }
       ]
